@@ -179,7 +179,8 @@
     <div style="margin: 0 auto; text-align: center;" align="center"> 
         <img src="https://github.com/user-attachments/assets/ea3a4701-14f3-4b84-9b19-6159ac39926a" alt="SW캡스톤디자인_04_JSL_판넬_page-0001" />
     </div>
-    <a href="https://softcon.ajou.ac.kr/works/works.asp?uid=1980" target="_blank">아주대학교 소프트콘 작품보기 링크</a>
+<!--     <a href="https://softcon.ajou.ac.kr/works/works.asp?uid=1980" target="_blank">아주대학교 소프트콘 작품보기 링크</a> -->
+    <a href="https://softcon.ajou.ac.kr/works/works_prev.asp?uid=1980&wTerm=2024-2" target="_blank">아주대학교 소프트콘 작품보기 링크</a>
 </div>
 
 <br>
